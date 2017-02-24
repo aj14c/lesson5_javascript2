@@ -4,13 +4,13 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(February 24,2017)
 
-### Student Name:  
-(First and Last Name)
+### Student Name: 
+(Andrew Jones)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(Demonstrate knowledge of Lesson 5 Javascript 2 by coding an income tax calculator application )
 
 ### View Project:
 (Replace this statement with your Github Page URL that was created when you 
